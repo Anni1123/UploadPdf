@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context=".MainActivity">
-
+    //We will click on this pdf image to select a pdf
     <ImageView
         android:layout_width="200dp"
         android:id="@+id/uploadpdf"
